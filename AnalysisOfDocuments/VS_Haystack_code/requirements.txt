@@ -1,0 +1,9 @@
+fastapi
+farm-haystack
+uvicorn
+torch
+torchvision
+torchaudio
+haystack
+python-multipart
+# django-haystack
